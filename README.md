@@ -1,8 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ionic-logo-landscape.svg/1200px-Ionic-logo-landscape.svg.png">
-    <img src="images/logo.png" alt="Logo" height="120">
-  </a>
+  ![Ionic Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ionic-logo-landscape.svg/1200px-Ionic-logo-landscape.svg.png)
 
   <h3 align="center">Sample Ionic App</h3>
 
