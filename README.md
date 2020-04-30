@@ -7,7 +7,6 @@
     <!-- <a href="https://github.com/brinehart/ionic-app"><strong>Explore the docs »</strong></a> -->
     <br />
     <br />
-    ·
     <a href="https://github.com/brinehart/ionic-app/issues">Report Bug</a>
     ·
     <a href="https://github.com/brinehart/ionic-app/issues">Request Feature</a>
