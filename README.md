@@ -1,6 +1,6 @@
+![Ionic Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ionic-logo-landscape.svg/1200px-Ionic-logo-landscape.svg.png)
 <br />
-<p align="center">
-  ![Ionic Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ionic-logo-landscape.svg/1200px-Ionic-logo-landscape.svg.png)
+<p align="center
 
   <h3 align="center">Sample Ionic App</h3>
 
